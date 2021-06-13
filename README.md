@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmohiesen96&show_icons=true&theme=chartreuse-dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmohiesen96)](https://github.com/mmohiesen96/github-readme-stats&theme=chartreuse-dark)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmohiesen96)](https://github.com/mmohiesen96/github-readme-stats&theme=chartreuse-dark) -->
