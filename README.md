@@ -17,3 +17,10 @@ Here are some ideas to get you started:
 
 ![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmohiesen96&show_icons=true&theme=chartreuse-dark)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmohiesen96)](https://github.com/mmohiesen96/github-readme-stats&theme=chartreuse-dark) -->
+My name is Mohammed Mohiesen I'm 25 years old, a computer science graduate
+with passion of coding and learning .
+
+- 💬 Ask me about Java , CSS , JS , Data structures .
+- ⚡ Fun fact: Love to sleep more than coding .
+- 📫 How to reach me: mmohiesen996@gmail.com .
+- 🌱 I’m currently learning Java for web .
