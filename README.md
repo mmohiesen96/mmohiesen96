@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 My name is Mohammed Mohiesen I'm 25 years old, a computer science graduate
 with passion of coding and learning .
 
-- 💬 Ask me about Java , CSS , JS , Data structures .
+- 💬 Ask me about Java ,Kotlin, CSS , JS ,Angular, Data structures .
 - ⚡ Fun fact: Love to sleep more than coding .
 - 📫 How to reach me: mmohiesen996@gmail.com .
-- 🌱 I’m currently learning Java for web .
+- 🌱 Software Developer.
